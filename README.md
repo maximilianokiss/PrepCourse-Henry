@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es una descripcion del modulo 2 de henry
+Este es una prueba de clonado de un repositorio
